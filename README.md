@@ -1,7 +1,6 @@
 # MCQTest releases
 
-Public release artifacts for the MCQTest practice-test app. The source code
-lives in a private repository.
+Public release artifacts for the MCQTest practice-test app.
 
 Each release contains:
 
